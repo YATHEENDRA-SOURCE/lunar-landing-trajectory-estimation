@@ -1,1 +1,1 @@
-"""Provided code for the notebooks: you do not need to open or change anything here."""
+"""Task 1 · Find Where the Image Changes: gradients, the motion constraint, trackable points."""
