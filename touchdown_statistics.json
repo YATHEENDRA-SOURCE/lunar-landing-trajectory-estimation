@@ -1,0 +1,20 @@
+{
+  "one_step": {
+    "mean_displacement": 0.29732579922344854,
+    "median_displacement": 0.24164704358958589,
+    "max_displacement": 1.1276800943442706,
+    "failed_track_rate": 0.09999999999999998
+  },
+  "iterative": {
+    "mean_displacement": 2.521245325372023,
+    "median_displacement": 1.918760957330314,
+    "max_displacement": 10.193765688133343,
+    "failed_track_rate": 0.1333333333333333
+  },
+  "sift_guided": {
+    "mean_displacement": 32.73923188289866,
+    "median_displacement": 36.49487188314353,
+    "max_displacement": 61.376886144177924,
+    "failed_track_rate": 0.6
+  }
+}
