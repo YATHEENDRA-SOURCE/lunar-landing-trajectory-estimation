@@ -1,0 +1,13 @@
+{
+  "frames": [
+    270,
+    413
+  ],
+  "length_unit": "m",
+  "time_unit": "s",
+  "start_Z": 3666.564649069018,
+  "end_Z": 9.112296412611494,
+  "duration": 168.0,
+  "horizontal_drift": 2280.1729255185596,
+  "max_descent_speed": 68.37714659404992
+}
