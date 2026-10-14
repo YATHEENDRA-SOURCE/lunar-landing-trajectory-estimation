@@ -1,1 +1,1 @@
-"""Task 2 · Track One Point: Lucas-Kanade, one step."""
+"""Task 3 · Track Fast Motion: iterative and SIFT-guided Lucas-Kanade."""
