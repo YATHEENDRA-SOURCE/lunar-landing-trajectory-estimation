@@ -1,1 +1,1 @@
-"""Task 1 · Find Where the Image Changes: gradients, the motion constraint, trackable points."""
+"""Task 2 · Track One Point: Lucas-Kanade, one step."""
